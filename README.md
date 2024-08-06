@@ -23,8 +23,8 @@ Soy Gonzalo, un desarrollador de software apasionado por la tecnología y la inn
 
 ## 💬 Contacto
 
-- [**LinkedIn:**](https://www.linkedin.com/in/gonzalo-a-b2707823b/)
-- [**Correo:**](mailto:gonzaloap03@gmail.com)
+- [**LinkedIn**](https://www.linkedin.com/in/gonzalo-a-b2707823b/)
+- [**Correo**](mailto:gonzaloap03@gmail.com)
 
 ---
 
