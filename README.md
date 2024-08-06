@@ -1,16 +1,31 @@
-## Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**0spol/0spol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Gonzalo, un desarrollador de software apasionado por la tecnología y la innovación. Me encanta explorar nuevas tecnologías y aplicar mis conocimientos en proyectos desafiantes.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Siempre estoy aprendiendo y actualmente me estoy enfocando en aprender nuevos idiomas.
+- 📫 Cómo contactarme: [tu.correo@ejemplo.com](mailto:gonzaloap03@gmail.com)
+  
+## 🔧 Tecnologías y Herramientas
+
+- **Lenguajes:** JavaScript, Python, Java, PHP
+- **Frameworks:** React, Angular, Spring
+- **Bases de datos:** MySQL, PostgreSQL
+- **Herramientas:** Git, Docker, GitLab
+
+## 🌟 Intereses
+
+- Inteligencia Artificial
+- Desarrollo Web
+- Código Abierto
+- Automatización
+
+## 💬 Contacto
+
+- **LinkedIn:** [tu_perfil_de_LinkedIn](https://www.linkedin.com/in/gonzalo-a-b2707823b/)
+- **Correo:** [tu.correo@ejemplo.com](mailto:gonzaloap03@gmail.com)
+
+---
+
+¡Gracias por visitar mi perfil de GitHub!
