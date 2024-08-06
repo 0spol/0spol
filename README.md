@@ -5,7 +5,7 @@ Soy Gonzalo, un desarrollador de software apasionado por la tecnología y la inn
 ## 🚀 Sobre mí
 
 - 🌱 Siempre estoy aprendiendo y actualmente me estoy enfocando en aprender nuevos idiomas.
-- 📫 Cómo contactarme: [tu.correo@ejemplo.com](mailto:gonzaloap03@gmail.com)
+- 📫 Cómo contactarme: [gonzaloap03@gmail.com](mailto:gonzaloap03@gmail.com)
   
 ## 🔧 Tecnologías y Herramientas
 
@@ -23,8 +23,8 @@ Soy Gonzalo, un desarrollador de software apasionado por la tecnología y la inn
 
 ## 💬 Contacto
 
-- **LinkedIn:** [tu_perfil_de_LinkedIn](https://www.linkedin.com/in/gonzalo-a-b2707823b/)
-- **Correo:** [tu.correo@ejemplo.com](mailto:gonzaloap03@gmail.com)
+- [**LinkedIn:**](https://www.linkedin.com/in/gonzalo-a-b2707823b/)
+- [**Correo:**](mailto:gonzaloap03@gmail.com)
 
 ---
 
